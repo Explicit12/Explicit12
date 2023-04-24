@@ -12,3 +12,6 @@ I'm front end dev from Ukraine. Work with vue.js, and it's ecosystem, also know 
 <a href="https://www.linkedin.com/in/dmytro-holdobin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+### Things I use for my projects
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nuxt,nodejs,vite,gulp,sass)](https://skillicons.dev)
