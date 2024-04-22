@@ -12,4 +12,4 @@
 </a>
 
 ### Things I use for my projects
-[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nuxt,nodejs,vite,gulp,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nuxt,nodejs,vite,sass)](https://skillicons.dev)
