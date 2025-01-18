@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate front-end developer with a knack for buil
 I work primarily with JavaScript, TypeScript, and Vue.js, leveraging tools like Git and Vite.js to build efficient and scalable applications. I'm always exploring new technologies to enhance my development workflow.
 
 ## I’m Always Learning
-Staying updated with the fast-evolving front-end ecosystem is my passion—whether it's experimenting with new tools or diving deeper into TypeScript.
+I enjoy staying at the forefront of the front-end ecosystem by exploring cutting-edge tools or improving my skills.
 
 ## Let's Connect
 You are welcome to reach out or collaborate!
