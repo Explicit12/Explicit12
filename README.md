@@ -1,6 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B883&width=435&lines=Hello+world!)](https://git.io/typing-svg)<br/>
+# Hi, I'm Dmytro 🇺🇦
 
-### Contacts
+## 🚀 Front-End Engineer | JavaScript, TypeScript, Vue.js Enthusiast
+
+Welcome to my GitHub! I'm a passionate front-end developer with a knack for building intuitive, efficient, and beautiful user interfaces.
+
+## What I Do
+- Building front-end applications with **JavaScript**, **TypeScript**, and **Vue.js**.
+- **Currently working on** **[Vueless](#)**, an open-source UI library for Vue.js.
+
+## My Tech Stack
+I work primarily with JavaScript, TypeScript, and Vue.js, leveraging tools like Git and Vite.js to build efficient and scalable applications. I'm always exploring new technologies to enhance my development workflow.
+
+## I’m Always Learning
+Staying updated with the fast-evolving front-end ecosystem is my passion—whether it's experimenting with new tools or diving deeper into TypeScript.
+
+## Let's Connect
+You are welcome to reach out or collaborate!
+
 <a href="https://t.me/+380636045081">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -10,6 +26,3 @@
 <a href="https://www.linkedin.com/in/dmytro-holdobin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-### Things I use for my projects
-[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nuxt,nodejs,vite,sass)](https://skillicons.dev)
